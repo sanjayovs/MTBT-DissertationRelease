@@ -1,0 +1,40 @@
+Global Parameters
+---------------------------------------
+Max. Browninan Force: 300
+Max. Iterations: 1000
+Microtubule Length: 22
+Simulation Speed: 4
+Total Trials: 1
+Trial Start Count: 1
+Continous Runs: True
+No. of Parallel Instances: 1
+Record Data: True
+Auto Name Files: True
+File Tag: Study2
+::Global
+
+Dimer Parameters
+---------------------------------------
+Count: 200
+Max. DeHydro Delay: 4000
+Min. DeHydro Delay: 2000
+Max. Break Iterations: 5
+Bond Affinity Range: 1
+Break Probability B1:0
+Break Probability B2:0
+Break Probability B3:0
+Break Probability B4:0
+Active State:False
+Dimer Intro Iteration:1
+::Dimer
+
+GTP Parameters
+---------------------------------------
+Count: 200
+Max. DeHydro Delay: 200
+Min. DeHydro Delay: 100
+Active State:False
+GTP Intro Iteration:1
+::GTP
+Dimer_C_200_eC_MaxDH_4000_eMaxDH_MinDH_2000_eMinDH_II_1_eII_BI_5_eBI_BR_1_eBR_b1_0_eb1_b2_0_eb2_b3_0_eb3_b4_0_eb4_AF_False_eAF_eDimer
+Global_MI_1000_eMI_BF_300_eBF_MTL_22_eMTL_SS_4_eSS_RD_True_eRD_TR_0_eTR_eGlobal
